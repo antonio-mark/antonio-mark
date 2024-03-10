@@ -5,9 +5,9 @@
 ## **🧥 About me**
 
 - Backend Developer
-- Specialist C# .NET
-- Working to be a DevSecOps
-- Hacking enthusiast ( Most focus on AppSec/OffSec )
+- Specialist in C# .NET
+- Working to become a DevSecOps professional
+- Enthusiastic about Hacking (with a focus on AppSec/OffSec)
 
 ## **💬 My skills**
 
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>Database</summary>
+  <summary>Databases</summary>
   
 > ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,7 +65,7 @@
 
 </details>
 
-## **🚀 Know more about me and my works**
+## **🚀 Learn more about me and my work**
 
 <a href="https://highsix.ftp.sh">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=highsix-apt&repo=highsix-apt.github.io&theme=midnight-purple&border_radius=20"/>
