@@ -78,15 +78,3 @@
 <a href="https://github.com/antonio-mark/antonio-mark.github.io">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=antonio-mark&repo=antonio-mark.github.io&theme=midnight-purple&border_radius=20"/>
   </a>
-
-## **🌠 Find me on**
-
-_Click on the image to be redirected_
-
-<a href="https://www.linkedin.com/in/antonio-mark/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:antonioborgo@hotmail.com.br">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
